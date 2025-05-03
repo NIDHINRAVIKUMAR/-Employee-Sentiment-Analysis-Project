@@ -1,2 +1,2 @@
-# -Employee-Sentiment-Analysis-Project
-Utilized natural language processing (NLP) techniques, including tokenization, lemmatization, and n-gram analysis, to preprocess and analyze textual data. Implemented machine learning algorithms such as Logistic Regression and Support Vector Machines to classify sentiment as positive, negative, or neutral.
+# Employee-Sentimental-Analysis
+Analyze employee feedback using NLP and ML techniques to determine sentiment. Includes data preprocessing, classification models (Logistic Regression, SVM, Naive Bayes), and evaluation metrics. Built with Python, scikit-learn, and TensorFlow.
